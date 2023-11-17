@@ -1,7 +1,7 @@
 ## Technical Interviews Preparations
 
 - [Data Structures](./data-structures/index.md)
-- [Design Patterns](./design-interviews/index.md)
+- [Design Patterns](./data-structures/index.md)
 - [System Design](./system-design/index.md)
 - [Javascript interviews](./data-structures/index.md)
 
